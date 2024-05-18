@@ -5,3 +5,5 @@ azure-identity
 azure-keyvault-secrets
 azure-ai-resources
 azure-ai-ml
+azure-mgmt-resource==23.1.0b2
+msal[broker]==1.24.0b1
